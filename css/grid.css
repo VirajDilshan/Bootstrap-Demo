@@ -1,0 +1,35 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.h {
+    height: 300px;
+}
+
+.hs {
+    height: 150px;
+}
+
+.hss {
+    height: 75px;
+}
+
+.red {
+    background-color: maroon;
+}
+
+.green {
+    background-color: forestgreen;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+.black {
+    background-color: black;
+}
+
